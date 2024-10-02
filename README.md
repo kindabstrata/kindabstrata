@@ -1,5 +1,4 @@
-<h1 align="center">hi 👋, i'm kindabstrata</h1>
-<h3 align="center">a hobbyist developer based in 🍁</h3>
+<h3>hi 👋, i'm kindabstrata<br><i>hobbyist developer based in 🍁</i></h3>
 
 most of my code lies in private repositories... sorry!
 
